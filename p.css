@@ -1,0 +1,30 @@
+body{
+    background-color: #000;
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-flex;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #355dd4;
+}
+
+li a{
+    color: #1E90FF;
+}
+
+h2 a{
+    color: #1E90FF;
+    position: relative;
+    top: 500px;
+}
+
