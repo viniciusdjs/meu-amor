@@ -9,7 +9,7 @@ nav ul {
 }
 
 nav li {
-    display: inline;
+    display: grid;
     margin-right: 20px;
 }
 
