@@ -87,7 +87,7 @@ section {
 /* Estilos responsivos */
 @media screen and (max-width: 600px) {
     header {
-        text-align: left;
+        text-align: center;
     }
 
     nav ul {
