@@ -69,17 +69,13 @@ nav a {
     color: #355dd4;
 }
 
-.texto-na-parte-de-baixo{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    text-align: left;
+h2{
     color: #355dd4;
-    padding: 1% 0;
-    font-size: 2vw;
 }
 
+h2 a{
+    color: #355dd4;
+}
 section {
     margin-bottom: 30px;
 }
