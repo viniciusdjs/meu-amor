@@ -11,8 +11,9 @@ nav ul {
 nav li {
     display: inline-flex;
     margin-right: 20px;
-    margin-inline-start: 0px;
-    margin-inline-end: 5px;
+    margin-inline-start: 1px;
+    margin-inline-end: 2px;
+    text-align: left;
 }
 
 nav a {
